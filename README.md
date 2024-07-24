@@ -32,3 +32,4 @@ city_counts - город, количество запросов к этому г
 - Сохраняется история для каждого пользователя
 
    
+![weather_the_weather](https://github.com/user-attachments/assets/dace767e-d6aa-4bbd-8a73-6ba6616d2826)
